@@ -1,0 +1,12 @@
+<button type="button" class="list-group-item list-group-item-action active text-center mb-2 display-6 bg-info">
+    Interested People So Far
+</button>{{#each donation}}
+<div class="list-group">
+    <li class="list-group-item list-group-item-dark text-capitalize font-weight-bold h4">{{firstName}} {{lastName}}</li>
+</div>
+
+{{else}}
+<div class="list-group">
+    <li class="list-group-item list-group-item-danger text-capitalize font-weight-bold h4 text-center">No people to list</li>
+</div>
+{{/each}}

@@ -6,4 +6,4 @@ deprived of education. Since I believe in change through education, I was motiva
 to do this project.
 ```
 # Hosted on Heroku
-[Donation_APP_Link] (https://thawing-harbor-91342.herokuapp.com/)
+[Donation_APP_Link](https://thawing-harbor-91342.herokuapp.com/)
